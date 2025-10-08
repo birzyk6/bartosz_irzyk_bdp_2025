@@ -1,3 +1,1 @@
 # bdp-template
-
-### test zmiana
