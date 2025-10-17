@@ -1,11 +1,13 @@
 \c firma;
 
--- 5g) Wyświetl imię i nazwisko pracowników, których pensja zawiera się w przedziale 1500 – 3000 PLN
+-- 5i) Uszereguj pracowników według pensji
 SELECT 
+    p.id_pracownika,
     p.imie,
     p.nazwisko,
+    pen.stanowisko,
     pen.kwota AS pensja
 FROM ksiegowosc.pracownicy p
 JOIN ksiegowosc.wynagrodzenie w ON p.id_pracownika = w.id_pracownika
 JOIN ksiegowosc.pensja pen ON w.id_pensji = pen.id_pensji
-WHERE pen.kwota BETWEEN 1500 AND 3000;
+ORDER BY pen.kwota ASC;

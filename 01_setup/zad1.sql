@@ -1,0 +1,5 @@
+DROP DATABASE IF EXISTS firma;
+
+CREATE DATABASE firma;
+
+\c firma;
