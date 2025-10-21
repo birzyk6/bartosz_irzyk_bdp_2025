@@ -1,6 +1,6 @@
 \c postgres
 
--- 5: Współrzędne obiektów oraz nazwy należy odczytać z mapki umieszczonej poniżej
+-- 5): Współrzędne obiektów oraz nazwy należy odczytać z mapki umieszczonej poniżej
 
 SET search_path TO postgis_lab, public;
 
