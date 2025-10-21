@@ -1,6 +1,6 @@
 \c postgres
 
--- Task 6a: Wyznacz całkowitą długość dróg w analizowanym mieście
+-- 6a): Wyznacz całkowitą długość dróg w analizowanym mieście
 
 SET search_path TO postgis_lab, public;
 

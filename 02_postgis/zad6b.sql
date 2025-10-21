@@ -1,6 +1,6 @@
 \c postgres
 
--- Task 6b: Wypisz geometrię (WKT), pole powierzchni oraz obwód poligonu 
+-- 6b): Wypisz geometrię (WKT), pole powierzchni oraz obwód poligonu 
 -- reprezentującego budynek o nazwie BuildingA
 
 SET search_path TO postgis_lab, public;

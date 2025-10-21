@@ -1,6 +1,6 @@
 \c postgres
 
--- 4: Na podstawie poniższej mapy utwórz trzy tabele: 
+-- 4): Na podstawie poniższej mapy utwórz trzy tabele: 
 -- buildings (id, geometry, name), roads (id, geometry, name), poi (id, geometry, name)
 
 CREATE SCHEMA IF NOT EXISTS postgis_lab;
