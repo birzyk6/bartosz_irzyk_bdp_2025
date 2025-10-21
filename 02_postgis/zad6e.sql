@@ -1,6 +1,6 @@
 \c postgres
 
--- Task 6e: Wyznacz najkrótszą odległość między budynkiem BuildingC a punktem K
+-- 6e): Wyznacz najkrótszą odległość między budynkiem BuildingC a punktem K
 
 SET search_path TO postgis_lab, public;
 
