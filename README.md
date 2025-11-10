@@ -4,3 +4,4 @@
 
 ### ✅ 01_setup
 ### ✅ 02_postgis
+### ✅ 03_shapes
