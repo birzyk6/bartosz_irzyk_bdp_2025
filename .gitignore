@@ -208,3 +208,9 @@ __marimo__/
 
 # Local
 shp
+*.zip
+
+.DS_Store
+output/
+04_iot_data/
+trilaterate.py
