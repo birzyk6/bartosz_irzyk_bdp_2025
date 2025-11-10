@@ -5,3 +5,4 @@
 ### ✅ 01_setup
 ### ✅ 02_postgis
 ### ✅ 03_shapes
+### ✅ 04_azure_iot
