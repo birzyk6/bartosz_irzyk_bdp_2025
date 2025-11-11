@@ -214,3 +214,6 @@ shp
 output/
 04_iot_data/
 trilaterate.py
+analyze_sensors.py
+main.py
+*.csv
