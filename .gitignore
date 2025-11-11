@@ -212,4 +212,11 @@ shp
 .DS_Store
 output/
 04_iot_data/
+<<<<<<< HEAD
 trilaterate.py
+analyze_sensors.py
+main.py
+*.csv
+=======
+trilaterate.py
+>>>>>>> main
